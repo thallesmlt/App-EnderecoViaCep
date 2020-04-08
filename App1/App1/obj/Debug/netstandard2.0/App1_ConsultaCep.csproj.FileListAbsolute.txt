@@ -1,0 +1,6 @@
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1_ConsultaCep.csprojAssemblyReference.cache
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1_ConsultaCep.csproj.CoreCompileInputs.cache
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1_ConsultaCep.AssemblyInfoInputs.cache
+C:\Projetos_Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1_ConsultaCep.AssemblyInfo.cs
